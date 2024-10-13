@@ -7,7 +7,7 @@
     <h2>Мои контакты</h2>
     <p>
         <a href="https://t.me/Ray_Gek" target="_blank">
-            <img src="https://example.com/telegram-logo.png" alt="Telegram логотип" width="30" height="30">
+             <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_logo.svg" alt="Telegram логотип" width="30" height="30">
             Telegram - for quick personal communication
         </a>
     </p>
