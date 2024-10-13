@@ -31,6 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
 
+<div id="more-github-stats" style="text-align: center; margin-top: 20px;">
 <h2>GitHub Stats</h2>
 
 <!-- Виджет #1: GitHub Profile Summary -->
@@ -44,4 +45,4 @@
 
 <!-- Виджет #4: Commits History -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryAntipin151002&theme=default" alt="Commits History" width="400"/>&nbsp;
-
+</div>
