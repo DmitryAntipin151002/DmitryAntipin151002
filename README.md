@@ -34,7 +34,6 @@
 <div id="more-github-stats" style="text-align: center; margin-top: 20px;">
     <h2>GitHub Stats</h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-        <!-- Виджет #1: GitHub Profile Summary -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryAntipin151002&theme=default" alt="GitHub Profile Summary" width="400" style="border: 1px solid #ccc; border-radius: 8px;"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryAntipin151002&theme=default" alt="Most Used Languages" width="400" style="border: 1px solid #ccc; border-radius: 8px;"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitryAntipin151002&theme=default" alt="Commits Per Day" width="400" style="border: 1px solid #ccc; border-radius: 8px;"/>
