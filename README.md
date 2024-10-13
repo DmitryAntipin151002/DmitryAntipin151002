@@ -4,10 +4,10 @@
 </div>
 
 <div id="social-links" style="text-align: center; margin-top: 20px;">
-    <h2>Мои контакты</h2>
+    <h2>My contacts</h2>
     <p>
-        <a href="https://t.me/Ray_Gek" target="_blank">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_logo.svg" alt="Telegram логотип" width="30" height="30">
+        <a href="https://t.me/Ray_Gek" target="_blank"><img
+             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
             Telegram - for quick personal communication
         </a>
     </p>
@@ -22,7 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" title="Hibernate" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" title="REST" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>&nbsp;
