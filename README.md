@@ -3,7 +3,11 @@
 
 ###
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" /></h2>
+<h2 align="left">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" /></h2>
+
+###
+
+<p align="left"> - My name is Dmitry. <br> - I'm  Software Engineer. <br> - I'm currently studying at <a href=https://psu.by/en/>Polotsk State Univerisy</a>.</p>
 
 ###
 
@@ -16,10 +20,7 @@
 </picture>
 
 ###
-<div id="header" style="text-align: center;">
-    <h1>Hi there, I'm Dmitry</h1>
-    <h3>Developer from Belarus</h3>
-</div>
+
 
 <div id="social-links" style="text-align: center; margin-top: 20px;">
     <h2>My contacts</h2>
