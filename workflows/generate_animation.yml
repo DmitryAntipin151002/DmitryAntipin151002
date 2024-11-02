@@ -17,8 +17,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/svg-only@v3
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: DmitryAntipin151002  # Твой GitHub юзернейм
           outputs: |
@@ -28,7 +28,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Wavy Contribution Animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: DmitryAntipin151002
           outputs: |
