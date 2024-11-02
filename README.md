@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://i.gifer.com/9s96.gif" />
+<img align="left" height="100" src="https://i.gifer.com/9s96.gif" />
 
 <h2 align="left">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h2>
 
